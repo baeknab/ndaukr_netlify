@@ -1,19 +1,30 @@
 ---
 layout: page
-title: Home
+title: 장애인활동지원사 백서
 id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+전국활동지원사노동조합에서 만든 장애인활동지원사를 위한 백서입니다. 자주 묻는 질문들 및 정보성 게시물들을 이곳에 모두 모아보려고 합니다.
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+### 권리
+* [[구직급여 실업급여]]
+* [[산재보험]]
+* [[임금상 권리]]
+* [[활동지원사 휴게시간]]
+* [[야간노동을 제재하는 것에 대해]]
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+### 의무사항
++ [[의무사항]]
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+### 주의할 사항
++ [[하지 말아야 할 일들]]
+
+### 사건사고
++ [[사건사고]]
+
+### 소식지 모음
++ [[소식지 모음]]
 
 <style>
   .wrapper {
