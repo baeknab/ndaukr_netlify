@@ -22,11 +22,10 @@ body {
     font-size: 1.2rem;
     }
 
-  @media (min-width: 820px) iframe {
+  @media (min-width: 820px) { iframe {
       width: 100%;
       height: 21.99%;
-    }
-
+    } }
 }
 
 time {
