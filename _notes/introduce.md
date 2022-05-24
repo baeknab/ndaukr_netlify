@@ -1,7 +1,10 @@
 ---
-title : 노동조합 소개
+layout: page
+title: "노동조합 소개"
+id: introduce
+permalink: /introduce
 ---
-장애인활동지원사들의 노동조합.
+장애인활동지원사들의 노동조합.<br/>
 전국활동지원사노동조합 입니다.
 
 ### Cafe : [Daum cafe](http://cafe.daum.net/paspower)
