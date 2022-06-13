@@ -20,9 +20,3 @@ permalink: /
 * [[의료서비스제공]]
 
 ## 사건사고
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
