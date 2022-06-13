@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: page
 title: 장애인활동지원사 백서
 id: home
 permalink: /
@@ -20,3 +20,9 @@ permalink: /
 * [[의료서비스제공]]
 
 ## 사건사고
+
+<style>
+  .wrapper {
+    max-width: 46em;
+  }
+</style>
