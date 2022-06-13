@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: note
 title: 장애인활동지원사 백서
 id: home
 permalink: /
